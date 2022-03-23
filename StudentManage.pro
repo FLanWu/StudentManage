@@ -31,3 +31,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 DISTFILES += \
     StudentManage.pro.user \
     logo.ico
+
+RC_ICONS = logo.ico
